@@ -1,0 +1,27 @@
+#firstDiv {
+    height: 30px;
+    width: 30px;
+    background-color: #000;
+}
+#secondDiv {
+    height: 30px;
+    width: 30px;
+    background-color: #FFF;
+}
+
+.wrapper {
+  height: 30px;
+  width: 30px;
+  background-color: #000;
+}
+
+.button-class {
+    width: 100px;
+    height: 30px;
+    background-color: #dcdcdc;
+    border: 1px solid #bbbbbb;
+    border-radius: 2px;
+    font-size: 15px;
+    font-family: sans-serif;
+    color: #8e7272;
+}
